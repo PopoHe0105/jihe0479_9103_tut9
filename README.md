@@ -40,3 +40,26 @@ function helloWorld() {
 console.log("Hello, world!");
 }
 ```
+---
+
+# quiz 9
+## Part 1: Imaging Technique Inspiration
+### The source of inspiration I chose is the works of illustrator moon. Her pictures often feature a main tone of pinkish purple, complemented by soft halos and dreamlike compositions. In this picture, the star vending machine and the floating light spots form a wonderful sense of space. This "fantastical and gentle" visual effect is very much in line with the atmosphere of the interactive story I want to create. Therefore, I hope to draw on her style of color gradation and luminous elements in the project.
+- Item 1
+![An image of Yuexia](readmeImages/quiz9-1.jpg)
+- Item 2
+![An image of Yuexia](readmeImages/quiz9-2.jpg)
+- Item 3
+![An image of Yuexia](readmeImages/quiz9-3.jpg)
+- Item 4
+![An image of Yuexia](readmeImages/quiz9-4.jpg)
+- Item 5
+![An image of Yuexia](readmeImages/quiz9-5.jpg)
+## Part 2: Coding Technique Exploration
+### To achieve the floating stars and soft light effects in the illustration, I selected two p5.js examples as technical references.
+1. Snowflakes
+[Snowflakes](https://p5js.org/zh-Hans/examples/classes-and-objects-snowflakes/)
+![An image of snowflakes](readmeImages/snowflakes-show.png)
+2. Blend
+[Blend](https://p5js.org/reference/p5.Image/blend/)
+![An image of blend](readmeImages/blend-show.png)
