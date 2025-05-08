@@ -51,7 +51,7 @@ console.log("Hello, world!");
 ![An image of Yuexia](readmeImages/quiz9-2.jpg)
 - A Sweet Orange Dream on Blue Pudding
 ![An image of Yuexia](readmeImages/quiz9-3.jpg)
-- A wandering little house
+- A Wandering Little House
 ![An image of Yuexia](readmeImages/quiz9-4.jpg)
 - The Melody of Stars Echoes Through the Forest
 ![An image of Yuexia](readmeImages/quiz9-5.jpg)
